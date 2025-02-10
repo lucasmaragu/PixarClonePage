@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+
+header {
+    font-family: 'HVDTrial Brandon Grotesque', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 500;
+  }
+  header img{
+    
+  }
+  
+  .fuente{
+    font-family: 'HVDTrial Brandon Grotesque', sans-serif;
+    letter-spacing: 3px;
+ 
+  }
